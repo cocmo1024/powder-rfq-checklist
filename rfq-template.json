@@ -1,0 +1,81 @@
+{
+  "fields": [
+    {
+      "id": "alloy_and_specification",
+      "status": "pending",
+      "requirement": "Enter exact alloy designation and specification revision or agreed composition table.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "process_and_machine",
+      "status": "pending",
+      "requirement": "Enter intended process, machine and trial or production context.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "particle_size_distribution",
+      "status": "pending",
+      "requirement": "Enter PSD limits, units, measurement method and reporting basis.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "chemistry_and_interstitials",
+      "status": "pending",
+      "requirement": "Enter controlled elements, numeric acceptance limits, units and methods.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "flow_and_density",
+      "status": "pending",
+      "requirement": "Enter required flow/density metrics, limits, test methods and conditions.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "powder_condition",
+      "status": "pending",
+      "requirement": "State virgin, blended or reused condition and applicable history controls.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "lot_traceability",
+      "status": "pending",
+      "requirement": "Define required lot and container identification and sample-to-shipment traceability.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "required_documents",
+      "status": "pending",
+      "requirement": "List purchase specification, TDS, lot COA and SDS requirements and revisions.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "sampling_and_acceptance",
+      "status": "pending",
+      "requirement": "Name the sampling responsibility, acceptance owner and deviation workflow.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "quantity_and_packaging",
+      "status": "pending",
+      "requirement": "Enter trial/production quantity, unit, pack size and container requirements.",
+      "evidence": "",
+      "notes": ""
+    },
+    {
+      "id": "delivery_requirements",
+      "status": "pending",
+      "requirement": "Enter destination, requested timing and commercial delivery basis.",
+      "evidence": "",
+      "notes": ""
+    }
+  ]
+}

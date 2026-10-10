@@ -1,0 +1,12 @@
+﻿id,status,requirement,evidence,notes
+alloy_and_specification,pending,Enter exact alloy designation and specification revision or agreed composition table.,,
+process_and_machine,pending,"Enter intended process, machine and trial or production context.",,
+particle_size_distribution,pending,"Enter PSD limits, units, measurement method and reporting basis.",,
+chemistry_and_interstitials,pending,"Enter controlled elements, numeric acceptance limits, units and methods.",,
+flow_and_density,pending,"Enter required flow/density metrics, limits, test methods and conditions.",,
+powder_condition,pending,"State virgin, blended or reused condition and applicable history controls.",,
+lot_traceability,pending,Define required lot and container identification and sample-to-shipment traceability.,,
+required_documents,pending,"List purchase specification, TDS, lot COA and SDS requirements and revisions.",,
+sampling_and_acceptance,pending,"Name the sampling responsibility, acceptance owner and deviation workflow.",,
+quantity_and_packaging,pending,"Enter trial/production quantity, unit, pack size and container requirements.",,
+delivery_requirements,pending,"Enter destination, requested timing and commercial delivery basis.",,
